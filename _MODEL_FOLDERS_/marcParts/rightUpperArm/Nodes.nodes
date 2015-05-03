@@ -1,0 +1,142 @@
+Version 1
+{ Nodes
+  Server "Wood2"
+  { Tag
+    RealName "Wood2"
+    Name "Wood2 (1)"
+    Coordinates -132 -105
+    Mode 1
+    { Data
+      { BgColor
+        { VariantParameter
+          3
+          0
+          { ParameterValue
+            0.50196081 0.25098041 0
+            0
+          }
+        }
+      }
+      { FgColor
+        { VariantParameter
+          3
+          0
+          { ParameterValue
+            0.94117647 0.87058824 0.36862746
+            0
+          }
+        }
+      }
+      { Opacity
+        { VariantParameter
+          3
+          0
+          { ParameterValue
+            1
+            0
+          }
+        }
+      }
+      { RingSpacing
+        { VariantParameter
+          3
+          0
+          { ParameterValue
+            0.15000001
+            0
+          }
+        }
+      }
+      { Phase
+        { VariantParameter
+          3
+          0
+          { ParameterValue
+            0.25
+            0
+          }
+        }
+      }
+      { Distortion
+        { VariantParameter
+          3
+          0
+          { ParameterValue
+            0.25
+            0
+          }
+        }
+      }
+      { NoiseScale
+        { VariantParameter
+          3
+          0
+          { ParameterValue
+            0.5
+            0
+          }
+        }
+      }
+      { Scale
+        { VariantParameter
+          3
+          0
+          { ParameterValue
+            0.079999998 0.80000001 0.050000001
+            0
+          }
+        }
+      }
+      { Position
+        { VariantParameter
+          3
+          0
+          { ParameterValue
+            1 -0.17399999 0
+            0
+          }
+        }
+      }
+      { Rotation
+        { VariantParameter
+          3
+          0
+          { ParameterValue
+            0 -0.43458697 0
+            0
+          }
+        }
+      }
+      { Falloff
+        { VariantParameter
+          3
+          0
+          { ParameterValue
+            0 0 0
+            0
+          }
+        }
+      }
+      FalloffType 0
+      Blending 0
+      WorldCoordinates 0
+      Invert 0
+      ReferenceObject ""
+      { BumpAmp
+        { VariantParameter
+          3
+          0
+          { ParameterValue
+            1
+            0
+          }
+        }
+      }
+      Axis 0
+    }
+    Preview "Color"
+    Comment ""
+  }
+}
+{ Connections
+}
